@@ -3,3 +3,6 @@
 3.9
 3.10
 3.11
+3.13 and beyond
+
+I did 3.12, but when I started trying to do 3.13 I misunderstood thinking we were incrementing over the result of 3.12 and wrote all over it. Then I realised what the spec meant by "frontend", that it was referring to the exercises in part 3-b that I didn't do, so I gave up on 3.13 and my code for 3.12 is lost ;_;
